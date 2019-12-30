@@ -80,7 +80,6 @@ PRODUCT_PACKAGES += \
 # Camera
 PRODUCT_PACKAGES += \
     camera.msm8960 \
-    Footej \
     libcamera_shim
 
 # Camera External Config
